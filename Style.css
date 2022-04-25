@@ -1,0 +1,17 @@
+.menubar{
+    padding: 20px;
+    margin: 10px;
+    text-align: right;
+    color: rgb(235, 238, 239);
+    background-color: rgb(2, 2, 175);
+}
+.menutext{ 
+
+    color:white;
+    padding: 5px;
+}
+.menutext:hover{
+    color: rgb(255, 57, 57);
+    text-size-adjust: 10px ;
+    
+}
