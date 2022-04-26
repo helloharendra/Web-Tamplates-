@@ -9,3 +9,8 @@ tamplets and menubar basic to advance
 
 ![op2](https://user-images.githubusercontent.com/78723011/165297119-316b6f1d-53de-497c-8ce6-ef8a1ac172ca.PNG)
 
+# use of meta tag
+
+### page befare action , it will be redirect <b> Automatically </b> afte 5 second
+
+![Screenshot 2022-04-27 at 12 29 10 AM](https://user-images.githubusercontent.com/78723011/165373095-2ebe75ae-925e-4d3c-98bd-d8673d70faa2.png)
