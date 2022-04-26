@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>form</title>
+ <link rel="stylesheet" href=style/style.css">
+<script src="Script/script.js"></script>
+
+ 
+
+</head>
+<body style="background-color:#ff3300">
+
+<nav >
+
+<div class="menuBar"  style="text-align:right; background-color:blue; margin:5px;padding:10px">
+<a href="http://studyhubtutorial.com" class="menuItems" style="color:white">Home</a>
+<a href="http://studyhubtutorial.com" class="menuItems" style="color:white"> About us</a>
+<a href="http://studyhubtutorial.com" class="menuItems" style="color:white">Contact us</a>
+<a href="http://studyhubtutorial.com" class="menuItems" style="color:white">Services</a>
+</div><br><br>
+
+</nav>
+
+<div style="text-align:right">Search Here<input type="search" name="Search Here" placeholder="search here"></input></div>
+
+
+<div ><p>
+<img src="images/img2.jfif"  height="70%" width="100%">
+</p>
+</div>
+
+<p ><h1 style="color:blue;text-align:center">CONTACT US</h1></p>
+<form  style="color:white">
+
+<fieldset style="background-color:blue">
+<legend style="background-color:pink">Enter your detail</legend>
+
+<label ">Enter Your First Name</label><br>
+<input type="text" name="firstname" id="firstname" title="FirstName"><br>
+<label>Enter Your Last Name</label><br>
+<input type="text" name="lastname" id="lastname" ><br>
+<label>Enter DOB</label><br><br>
+<input type="date" name="dob" id="dob"><br><br>
+<label>Select Gender</label><br>
+<input type="radio" name="gender " id="gender"> Male<br>
+<input type="radio" name="gender " id="gender"> Female<br>
+<input type="radio" name="gender " id="gender"> Other<br>
+<label>Which type service you want</label><br>
+<input  type="checkbox" name"checkbox" id="checkbox">Website<br>
+<input  type="checkbox" name"checkbox" id="checkbox">Android App<br>
+<input  type="checkbox" name"checkbox" id="checkbox">Youtube<br>
+<input  type="checkbox" name"checkbox" id="checkbox">Other<br>
+<label>Enter Your Email</label><br>
+<input type="text" name="email" id="email" placeholder="Example@gmail.com"><br><br>
+<label >Enter Your Password </label><br>
+<input type="password" name="password" id="password" required ><br><br>
+<input type="Submit" name="submit" id="submit" style="background-color:#ff3805" onclick="mySubmit()">
+<input type="reset" name="reset" id="reset" Style="background-color:#ff3805" onclick="myReset()">
+<button type="button" style="background-color:#ff3805" onclick="myLogin()">Login</button>
+</fieldset>
+
+</form>
+
+</body>
+</html>
