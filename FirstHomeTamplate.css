@@ -1,0 +1,40 @@
+div.container{
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header,footer{
+    padding: 1em;
+    color: white;
+    background-color: #423435;
+    clear: left;
+    text-align: center;
+}
+nav{
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding:1em;
+}
+
+nav ul{
+    
+    list-style-type: none;
+    padding: 0;
+}
+nav ul a:hover{
+    color: rgb(232, 14, 14);
+   font-size: large;
+
+}
+article{
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+.anchor{
+    color: white;
+
+}
+
