@@ -31,3 +31,6 @@ tamplets and menubar basic to advance
 ### It's responsive template Desktop mode/full screen
 ![Screenshot 2022-04-30 at 12 34 42 AM](https://user-images.githubusercontent.com/78723011/166010006-008364fb-9759-4815-b1b3-2074959be48c.png)
 ### android mode/minimize
+
+![Screenshot 2022-04-30 at 12 40 44 AM](https://user-images.githubusercontent.com/78723011/166018292-33b8ee0e-ed8d-4eab-b94a-29d4b18c1f5d.png)
+
