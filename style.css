@@ -1,0 +1,33 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.header{
+    background-color: blue;
+    color:white;
+    text-decoration: none;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+.menuitems{
+    display: inline-block;
+    MARGIN: 10PX;
+    
+}
+
+.header ul li a{
+    color: aliceblue;
+}
+.menuitems:hover{
+    color: blue;
+    background-color: white;
+    display: inline-block;
+
+}
+.nav li{
+    display: inline-block;
+    
+}
