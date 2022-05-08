@@ -39,9 +39,110 @@
     border-radius: 8px;
     background-color: red;
     margin-top: 200px;
+    text-decoration: none;
+    
 
 }
 .hireme_btn:hover{
     color: lightgreen;
     font-size: 20px;
+    cursor: pointer;
+}
+.body{
+    background-color: gray;
+}
+
+.property1{
+    background-color: aqua;
+    margin-top: 100px;
+    max-width: 50%;
+
+}
+.property2{
+    background-color: antiquewhite;
+    margin-top: 100px;
+    max-width: 50%;
+}
+.heading1{
+    display: inline-block;
+    margin-top: 50px;
+     max-width: 50%;
+}
+
+.heading2{
+    display: inline-block;
+    margin-top: 50px;
+    max-width: 50%;
+}
+.container{
+    display: inline-block;
+    margin-top: 50px;
+    max-width: 50%;
+}
+.form{
+    background-color: blue;
+    margin-top: 20px;
+}
+.field{
+    align-items: center;
+    color:white;
+    margin-top: 100px;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+   width: 100%;
+    
+}
+.legend{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.login{
+    color: white;
+    background-color: red;
+
+    color: white;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    background-color: red;
+    margin-top: 5px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.login:hover{
+    font-size: large;
+    cursor: pointer;
+}
+.input_mail{
+    margin-left: 28px;
+}
+.footer{
+    background-color:black;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+
+}
+
+.para1{
+    background-color: red;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.form1{
+    align-items: center;
 }
