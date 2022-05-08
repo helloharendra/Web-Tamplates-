@@ -36,7 +36,7 @@ tamplets and menubar basic to advance
 
 ![Capture](https://user-images.githubusercontent.com/78723011/167063290-d51b5fa6-58d0-4a98-ac96-de39c41ff2af.PNG)
 
-## Try this one not best but something better before it
+## Try this one not best but something better than before it
 
 ![Capture1](https://user-images.githubusercontent.com/78723011/167286174-4b661028-b96f-417a-b7ba-658f257f5c23.PNG)
 
