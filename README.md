@@ -38,3 +38,5 @@ tamplets and menubar basic to advance
 
 ![Capture1](https://user-images.githubusercontent.com/78723011/167286174-4b661028-b96f-417a-b7ba-658f257f5c23.PNG)
 
+![Capture2](https://user-images.githubusercontent.com/78723011/167286203-6a1c5f26-6fc4-45ee-baab-1622c87626d2.PNG)
+
